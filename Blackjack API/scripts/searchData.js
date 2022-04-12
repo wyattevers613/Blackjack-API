@@ -1,4 +1,4 @@
-pages = [{"l":"index.html","n":"GUI-1 GUI Demo","t":"GUI-1 GUI Demo","d":"","k":"static"},
+pages = [{"l":"index.html","n":"CS403: Blackjack Implementation","t":"CS403: Blackjack Implementation","d":"","k":"static"},
 {"l":"_empty_.html","n":"<empty>","t":"package <empty>","d":"<empty>","k":"package"},
 {"l":"_empty_/Blackjack$.html","n":"Blackjack","t":"object Blackjack","d":"<empty>/Blackjack$","k":"object"},
 {"l":"_empty_/Blackjack$.html","n":"main","t":"def main(): Unit","d":"<empty>/Blackjack$","k":"def"},
@@ -127,4 +127,4 @@ pages = [{"l":"index.html","n":"GUI-1 GUI Demo","t":"GUI-1 GUI Demo","d":"","k":
 {"l":"simulation_components/playerOrder$.html","n":"advance","t":"def advance: Unit","d":"simulation_components/playerOrder$","k":"def"},
 {"l":"simulation_components/playerOrder$.html","n":"current","t":"def current: Player","d":"simulation_components/playerOrder$","k":"def"},
 {"l":"simulation_components/playerOrder$.html","n":"show","t":"def show: String","d":"simulation_components/playerOrder$","k":"def"},
-{"l":"docs/index.html","n":"GUI-1 GUI Demo","t":"GUI-1 GUI Demo","d":"","k":"static"}];
+{"l":"docs/index.html","n":"CS403: Blackjack Implementation","t":"CS403: Blackjack Implementation","d":"","k":"static"}];
